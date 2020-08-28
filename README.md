@@ -1,13 +1,10 @@
 # Blockchain ID
 
-#Objetivos
+#Login
 -------
+uPort Credentials Library upgrade
+https://github.com/uport-project/uport-credentials#uport-credentials-library
 
-
-#Componentes
-- Issuer
-- Uport
-- Autenticar / Primer punto de entrada para autenticar un usuario
-
-#Sprint
-- Research Uport
+Infra Correct url @here
+Unable to login to uport
+https://github.com/uport-project/uport-mobile/issues/212

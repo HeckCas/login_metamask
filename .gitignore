@@ -1,2 +1,2 @@
-uport-login/node_modules
-uport-login/.env
+_research/*
+app/client/node_modules
