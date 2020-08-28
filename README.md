@@ -3,17 +3,22 @@
 # Getting started
 -------
 ## API
+```
 cd api 
+npm install
 node index.js
+```
 
 -------
 ## APP
-cd app
+```
+cd app/client
+npm install
 npm run start
+```
 
 
-
-# Research
+# _research
 ## Uport login
 -------
 uPort Credentials Library upgrade
